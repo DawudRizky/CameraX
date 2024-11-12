@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Article</string>
+    <string name="title">FILKOM Universitas Brawijaya</string>
+    <string name="paragraf01">Fakultas Ilmu Komputer Universitas Brawijaya (FILKOM UB) adalah salah
+satu fakultas terkemuka yang berfokus pada pengembangan ilmu komputer
+dan teknologi informasi di Indonesia. Berdiri sebagai bagian dari universitas
+yang memiliki reputasi unggul, FILKOM UB terus berupaya mencetak
+lulusan yang kompeten dan inovatif dalam bidang teknologi. Dengan
+kurikulum yang terus diperbarui dan berfokus pada kebutuhan industri,
+fakultas ini menawarkan program studi yang beragam, mulai dari teknik
+informatika, sistem informasi, hingga teknologi informasi.
+</string>
+    <string name="paragraf02">Selain itu, FILKOM UB juga berkomitmen untuk melakukan penelitian yang
+berdampak global. Berbagai kolaborasi riset dilakukan dengan institusi
+nasional maupun internasional untuk memberikan solusi atas berbagai
+tantangan teknologi yang dihadapi masyarakat. Fasilitas laboratorium yang
+modern serta dosen yang berpengalaman dalam bidangnya mendukung
+mahasiswa untuk berkontribusi dalam inovasi teknologi, baik di tingkat
+lokal maupun global.
+</string>
+    <string name="title_activity_login">LoginActivity</string>
+</resources>
